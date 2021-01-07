@@ -2,7 +2,11 @@
 
 ### Mini project of 17911A05J4
 
-<img src = https://media.giphy.com/media/dt3ZFkDY8fDOebsq1d/giphy.gif alt = "Blackjack GIF">
+<!--
+<img align = "center" src = "https://media.giphy.com/media/l2Sq2mPVJr4tfk436/giphy.gif" alt = "Blackjack GIF">
+-->
+
+<img align = "center" src = "https://media.giphy.com/media/dt3ZFkDY8fDOebsq1d/giphy.gif" alt = "Blackjack GIF">
 
 
 **Blackjack**, formerly also **Black Jack** and **Vingt-Un**, is the American member of a global family of [banking games](https://en.wikipedia.org/wiki/Glossary_of_card_game_terms#banking_game) known as [Twenty-One](https://en.wikipedia.org/wiki/Twenty-One_(card_game)), whose relatives include the British game of Pontoon and the European game, Vingt-et-Un. It is a comparing [card game](https://en.wikipedia.org/wiki/Card_game) between one or more players and a dealer, where each player in turn competes against the dealer. Players do not compete against each other. It is played with one or more decks of 52 cards, and is the most widely played casino banking game in the world. Blackjack has over 100 rule variations.
@@ -16,7 +20,9 @@
 * If the player attains a final sum higher than the dealer and does not bust, the player wins.
 * If both dealer and player receive a blackjack or any other hands with the same sum called a "push", no one wins.
 
+<div align = "center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eyoh-Ku9TCI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 ***
