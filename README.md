@@ -25,9 +25,11 @@
 * If the player attains a final sum higher than the dealer and does not bust, the player wins.
 * If both dealer and player receive a blackjack or any other hands with the same sum called a "push", no one wins.
 
-<p align="center">
-[How to play Blackjack](https://www.youtube.com/watch?v=eyoh-Ku9TCI)
-</p>
+<center>
+<strong>
+[Click here to learn how to play Blackjack](https://www.youtube.com/watch?v=eyoh-Ku9TCI)
+<strong>
+</center>
 
 ***
 *This repository contains the implementation of Blackjack with the Python programming language for the purpose of Mini Project by A. Aditya, 17911A05J4 of CSE DEpartment of Vidya Jyothi Institute of Technology. Owner of this repository should be contacted to obtain the permission for the use of this repository elsewhere.*
