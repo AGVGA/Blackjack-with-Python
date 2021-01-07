@@ -27,11 +27,9 @@
 
 
 <strong>
-  <center>
   
 [Click here to learn how to play Blackjack!](https://www.youtube.com/watch?v=eyoh-Ku9TCI)
 
-  </center>
 </strong>
 
 
