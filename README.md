@@ -26,7 +26,7 @@
 * If both dealer and player receive a blackjack or any other hands with the same sum called a "push", no one wins.
 
 <p align="center">
-[![Watch](https://img.youtube.com/vi/eyoh-Ku9TCIE/0.jpg)](https://www.youtube.com/watch?v=eyoh-Ku9TCI)
+[![Watch](https://img.youtube.com/vi/eyoh-Ku9TCIE/0.jpg)].(https://www.youtube.com/watch?v=eyoh-Ku9TCI)
 </p>
 
 ***
