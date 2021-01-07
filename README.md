@@ -4,12 +4,12 @@
 
 <!--
 <p align="center" class = alternate_image>
-<img src = "https://media.giphy.com/media/l2Sq2mPVJr4tfk436/giphy.gif" alt = "Blackjack GIF">
+<img src = "https://media.giphy.com/media/dt3ZFkDY8fDOebsq1d/giphy.gif" alt = "Blackjack GIF">
 </p>
 -->
 
 <p align="center">
-<img src = "https://media.giphy.com/media/dt3ZFkDY8fDOebsq1d/giphy.gif" alt = "Blackjack GIF">
+<img src = "https://media.giphy.com/media/l2Sq2mPVJr4tfk436/giphy.gif" alt = "Blackjack GIF">
 </p>
 <br>
 
@@ -25,11 +25,9 @@
 * If the player attains a final sum higher than the dealer and does not bust, the player wins.
 * If both dealer and player receive a blackjack or any other hands with the same sum called a "push", no one wins.
 
-<!--<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eyoh-Ku9TCI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>-->
-[![]](https://www.youtube.com/embed/eyoh-Ku9TCI)
-
+<p align="center">
+[![Watch](https://img.youtube.com/vi/eyoh-Ku9TCIE/0.jpg)](https://www.youtube.com/watch?v=eyoh-Ku9TCI)
+</p>
 
 ***
 *This repository contains the implementation of Blackjack with the Python programming language for the purpose of Mini Project by A. Aditya, 17911A05J4 of CSE DEpartment of Vidya Jyothi Institute of Technology. Owner of this repository should be contacted to obtain the permission for the use of this repository elsewhere.*
