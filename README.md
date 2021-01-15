@@ -14,7 +14,7 @@
 <br>
 
 
-**Blackjack**, formerly also **Black Jack** and **Vingt-Un**, is the American member of a global family of [banking games](https://en.wikipedia.org/wiki/Glossary_of_card_game_terms#banking_game target ="_blank") known as [Twenty-One](https://en.wikipedia.org/wiki/Twenty-One_(card_game) target ="_blank"), whose relatives include the British game of Pontoon and the European game, Vingt-et-Un. It is a comparing [card game](https://en.wikipedia.org/wiki/Card_game target ="_blank") between one or more players and a dealer, where each player in turn competes against the dealer. Players do not compete against each other. It is played with one or more decks of 52 cards, and is the most widely played casino banking game in the world. Blackjack has over 100 rule variations.
+**Blackjack**, formerly also **Black Jack** and **Vingt-Un**, is the American member of a global family of [banking games](https://en.wikipedia.org/wiki/Glossary_of_card_game_terms#banking_game) known as [Twenty-One](https://en.wikipedia.org/wiki/Twenty-One_(card_game)), whose relatives include the British game of Pontoon and the European game, Vingt-et-Un. It is a comparing <a href = https://en.wikipedia.org/wiki/Card_game target ="_blank">card game</a> between one or more players and a dealer, where each player in turn competes against the dealer. Players do not compete against each other. It is played with one or more decks of 52 cards, and is the most widely played casino banking game in the world. Blackjack has over 100 rule variations.
 
 
 ### General Rules
@@ -28,7 +28,7 @@
 
 <strong>
   
-  [Click here to learn how to play Blackjack!](https://www.youtube.com/watch?v=eyoh-Ku9TCI target ="_blank")
+  [Click here to learn how to play Blackjack!](https://www.youtube.com/watch?v=eyoh-Ku9TCI)
 
 </strong>
 
