@@ -134,4 +134,4 @@ while choice == "y":
     if choice == "y":
         clear()
     else:
-        print("Goodbye")
+        print("Goodbye.")
