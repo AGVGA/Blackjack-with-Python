@@ -1,7 +1,5 @@
 # Blackjack with Python
 
-### Mini project of 17911A05J4
-
 <!--
 <p align="center" class = alternate_image>
 <img src = "https://media.giphy.com/media/dt3ZFkDY8fDOebsq1d/giphy.gif" alt = "Blackjack GIF">
@@ -34,4 +32,4 @@
 
 
 ***
-*This repository contains the implementation of Blackjack with the Python programming language for the purpose of **Mini Project by A. Aditya, 17911A05J4 of CSE Department of Vidya Jyothi Institute of Technology**. Owner of this repository should be contacted to obtain the permission for the use of this repository elsewhere.*
+*This repository contains the implementation of Blackjack with the Python programming language for the purpose of **Project by A. Aditya**. Owner of this repository should be contacted to obtain the permission for the use of this repository elsewhere.*
